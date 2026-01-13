@@ -1,4 +1,4 @@
-# SPM-Bajaj
+
 # Sales & Service Analysis – SPM BAJAJ
 
 ## 📊 Project Overview
